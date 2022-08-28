@@ -1,0 +1,294 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+
+}
+
+.container-fluid img {
+    margin-left: 30px;
+}
+
+.container-fluid .fa-bars {
+    font-size: 30px;
+    margin-right: 30px;
+    color: black;
+}
+
+.carousel-control-prev-icon {
+    background-color: #000;
+    border-radius: 50px;
+}
+
+.carousel-control-next-icon {
+    background-color: #000;
+    border-radius: 50px;
+
+}
+
+/* .carousel-inner {
+    border: 2px solid rgb(189, 28, 28);
+
+} */
+
+.box {
+    width: 100%;
+    /* height: 100%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-item iframe {
+    height: 395px !important;
+}
+
+.ivc {
+    margin-right: 770px;
+}
+
+.header {
+    width: 100%;
+    height: 100%;
+    /* border: 2px solid rgb(189, 28, 28); */
+    padding: 31px 0px 21px 29px;
+    font-size: 33px;
+    color: #333333;
+
+}
+
+.imgs {
+    /* border: 2px solid rgb(189, 28, 28); */
+    width: 100%;
+    display: flex;
+
+}
+
+.imgs img {
+    /* border: 2px solid rgb(189, 28, 28); */
+    width: 321px;
+}
+
+.imgs h2 {
+    width: 240px;
+    margin-top: -50px;
+    margin-left: 40px;
+    /* border: 2px solid rgb(189, 28, 28); */
+    list-style-type: none;
+    color: #333333;
+
+}
+
+.imgs h2:hover {
+    background: rgb(72, 72, 163);
+    color: #fff;
+    transition: 2s;
+
+}
+
+.imgs img:hover {
+    background: rgb(72, 72, 163);
+    transition: 2s;
+}
+
+.imgse {
+    width: 100%;
+    height: 100%;
+    /* border: 2px solid rgb(189, 28, 28); */
+
+
+}
+
+.imgs2 {
+    width: 100%;
+    display: flex;
+}
+
+.imgs2 img {
+    /* border: 2px solid rgb(189, 28, 28); */
+    width: 321px;
+}
+
+.imgs2 h2 {
+    width: 240px;
+    margin-top: -50px;
+    margin-left: 40px;
+    color: #333333;
+    list-style-type: none;
+    /* border: 2px solid rgb(189, 28, 28); */
+}
+
+.imgs2 img:hover {
+    background: rgb(72, 72, 163);
+    transition: 2s;
+}
+
+.imgs2 h2:hover {
+    background: rgb(72, 72, 163);
+    color: #fff;
+    transition: 2s;
+
+}
+
+/* footer */
+.footerr {
+    width: 100%;
+    height: 250px;
+    border: 2px solid gray;
+    margin-top: 130px;
+}
+
+.left {
+    width: 250px;
+    height: 50px;
+    margin-top: 25px;
+}
+
+.left h4 {
+    color: #4b4c4c;
+    font-weight: 400;
+    font-family: sans-serif;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.iconss {
+    margin-top: -33px;
+}
+
+.fa-facebook-f {
+    margin-left: 120px;
+    font-size: 25px;
+    padding-top: -60px;
+}
+
+.fa-instagram {
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+.fa-twitter {
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+.right {
+    width: 700px;
+    height: 60px;
+    margin-left: 600px;
+    margin-top: -60px;
+}
+
+.right .btn2 {
+    width: 30px;
+    border: 2px solid yellow;
+    background-color: #000;
+    color: yellow;
+    margin-top: 10px;
+}
+
+.btn21 {
+    margin-left: 5px;
+    background-color: #fff;
+    color: #333333;
+    width: 30px;
+    height: 27px;
+}
+
+.mb-3 {
+    margin-left: 90px;
+    margin-top: -30px;
+}
+.dropdown-toggle{
+    width: 200px !important;
+   
+}
+.btm{
+    width: 140px;
+    background-color: #fff;
+    margin-left: 305px;
+    margin-top: -100px;
+}
+.btm1{
+    width: 230px;
+    margin-left: 10px;
+    margin-top: -100px;
+}
+.top{
+    width:100%;
+    height: 120px;
+    margin-top: 50px;
+    /* border: 1px solid red; */
+
+}
+.logo{
+    width: 100px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.top p{
+    margin-left: 150px;
+    margin-top: -20px;
+}
+.ahref {
+    margin-top: -20px;
+}
+
+.ahref a{
+    margin-left: 150px;
+}
+.ahref h5{
+    margin-left: 260px;
+    margin-top: -23px;
+}
+.ahref2 {
+    margin-top: -30px;
+}
+
+.ahref2 a{
+    margin-left: 270px;
+}
+.ahref2 h5{
+    margin-left: 480px;
+    margin-top: -25px;
+}
+
+.ahref3 {
+    margin-top: -30px;
+}
+
+.ahref3 a{
+    margin-left: 500px;
+}
+.ahref3 h5{
+    margin-left: 670px;
+    margin-top: -25px;
+}
+/*  */
+.ahref4 {
+    margin-top: -30px;
+}
+
+.ahref4 a{
+    margin-left: 690px;
+}
+.ahref4 h5{
+    margin-left: 860px;
+    margin-top: -25px;
+}
+/*  */
+.ahref5 {
+    margin-top: -30px;
+}
+
+.ahref5 a{
+    margin-left: 880px;
+}
+.ahref5 h5{
+    margin-left: 860px;
+    margin-top: -25px;
+}
